@@ -1,7 +1,7 @@
 <h1 align="center">Gaspard Menou</h1>
 
 <p align="center">
-  Étudiant ingénieur à <b>Centrale Méditerranée</b> — Marseille 🇫🇷<br>
+  Étudiant ingénieur à <b><a href="https://www.centrale-med.fr/">Centrale Méditerranée</a></b> — Marseille 🇫🇷<br>
   Passionné par l'informatique, les réseaux et les technologies immersives (VR&nbsp;/&nbsp;AR)
 </p>
 
@@ -26,6 +26,28 @@ pour le suivi en temps réel de patients âgés : capteurs, Edge Computing, MQTT
 ### 🎯 Ce qui m'intéresse
 
 `Réseaux` · `Internet des objets` · `Réalité virtuelle & augmentée` · `Fabrication numérique`
+
+---
+
+### 🤝 Engagements associatifs
+
+À côté de mes études, je m'investis dans plusieurs associations étudiantes de
+**[Centrale Méditerranée](https://www.centrale-med.fr/)**, où je mêle technique,
+gestion de projet et communication.
+
+- **FabLab Marseille** — *Vice-Président.* J'encadre des projets étudiants en
+  fabrication numérique (impression 3D, découpe laser, électronique) et je coordonne
+  les activités du laboratoire.
+  &nbsp;[`Site`](https://fablab.asso.centrale-marseille.fr/) · [`Instagram`](https://www.instagram.com/fablab_ecm/)
+
+- **E-Gab** — *Responsable FabLab.* J'accompagne les membres de l'association dans la
+  conception et la réalisation de leurs prototypes.
+  &nbsp;[`Instagram`](https://www.instagram.com/e_gab_ecm/)
+
+- **EC'lairage** — *Responsable Communication.* Je gère la communication interne et
+  externe de l'association de régie son et lumière, et je participe à la mise en place
+  technique d'événements étudiants.
+  &nbsp;[`Site`](https://eclairage.asso.centrale-med.fr/) · [`Instagram`](https://www.instagram.com/ec_lairage_ecm/)
 
 ---
 
