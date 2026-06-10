@@ -73,7 +73,7 @@ gestion de projet et communication.
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GaspardMenou&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Stats GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GaspardMenou&show_icons=true&count_private=true&hide_border=true&theme=github_dark&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Stats GitHub">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaspardMenou&layout=compact&hide_border=true&theme=github_dark&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Langages">
 </p>
 
