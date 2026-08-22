@@ -1,88 +1,59 @@
-<h1 align="center">Gaspard Menou</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Gaspard Menou — réseaux, internet des objets, systèmes embarqués" width="880">
+</picture>
 
-<p align="center">
-  Étudiant ingénieur à <b><a href="https://www.centrale-med.fr/">Centrale Méditerranée</a></b> — Marseille 🇫🇷<br>
-  Passionné par l'informatique, les réseaux et les technologies immersives (VR&nbsp;/&nbsp;AR)
-</p>
+```
+$ whoami
+étudiant ingénieur à Centrale Méditerranée — je conçois des systèmes
+qui mesurent le monde physique et le mettent en réseau.
+```
 
-<p align="center">
-  <a href="https://gaspardm.fr/"><img src="https://img.shields.io/badge/Portfolio-gaspardm.fr-0a0a0a?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/gaspard-menou-100421331/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:gaspard.menou@centrale-med.fr"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"></a>
-</p>
+## ~/rami
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GaspardMenou&style=flat-square&color=0a0a0a&label=Vues+du+profil" alt="Vues du profil">
-</p>
+![Stage de recherche, 2026](https://img.shields.io/badge/stage%20de%20recherche-2026-2ea043?style=flat-square&labelColor=444d56) &nbsp;Laboratoire [ILIA](https://web.umons.ac.be/ilia/en/home/) · Université de Mons, Belgique
 
----
+**RAMi** — *Real-time Architecture for Monitoring*. J'ai développé une architecture IoT médicale pour le suivi en temps réel de patients âgés : de l'acquisition capteur jusqu'à l'inférence, en passant par le traitement en périphérie et un transport MQTT.
 
-### 🔭 En ce moment
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rami-dark.svg">
+  <img src="assets/rami-light.svg" alt="Architecture RAMi : capteurs physiologiques, passerelle edge computing, broker MQTT, inférence et alertes temps réel" width="796">
+</picture>
 
-Stagiaire recherche au sein du laboratoire **[ILIA](https://web.umons.ac.be/ilia/en/home/)** de l'Université de Mons (Belgique),
-où je développe **RAMi** *(Real-time Architecture for Monitoring)* — une architecture IoT médicale
-pour le suivi en temps réel de patients âgés : capteurs, Edge Computing, MQTT et IA.
+## ~/stack
 
-### 🎯 Ce qui m'intéresse
+| domaine | outils &amp; technologies |
+| :--- | :--- |
+| réseaux &amp; IoT | `MQTT` `ESP32` `Arduino` `edge computing` |
+| programmation | `Python` `C` `MATLAB` |
+| outillage | `Git` `Linux` `Docker` `LaTeX` |
+| immersif &amp; fabrication | `VR / AR` `impression 3D` `découpe laser` |
 
-`Réseaux` · `Internet des objets` · `Réalité virtuelle & augmentée` · `Fabrication numérique`
+## ~/associations
 
----
+Je m'investis dans plusieurs associations étudiantes de [Centrale Méditerranée](https://www.centrale-med.fr/), où je mêle technique, gestion de projet et communication.
 
-### 🤝 Engagements associatifs
+| association | rôle | ce que j'y fais |
+| :--- | :--- | :--- |
+| [**FabLab Marseille**](https://fablab.asso.centrale-marseille.fr/) | `vice-président` | J'encadre les projets étudiants en fabrication numérique et je coordonne les activités du laboratoire. |
+| [**E-Gab**](https://www.instagram.com/e_gab_ecm/) | `responsable fablab` | J'accompagne les membres dans la conception et la réalisation de leurs prototypes. |
+| [**EC'lairage**](https://eclairage.asso.centrale-med.fr/) | `responsable com` | Je gère la communication de l'association de régie son et lumière, et la mise en place technique d'événements étudiants. |
 
-À côté de mes études, je m'investis dans plusieurs associations étudiantes de
-**[Centrale Méditerranée](https://www.centrale-med.fr/)**, où je mêle technique,
-gestion de projet et communication.
+## ~/repères
 
-- **FabLab Marseille** — *Vice-Président.* J'encadre des projets étudiants en
-  fabrication numérique (impression 3D, découpe laser, électronique) et je coordonne
-  les activités du laboratoire.
-  &nbsp;[`Site`](https://fablab.asso.centrale-marseille.fr/) · [`Instagram`](https://www.instagram.com/fablab_ecm/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaspardMenou&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaspardMenou&theme=github" alt="Statistiques GitHub" height="175">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GaspardMenou&theme=github_dark&utcOffset=2">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GaspardMenou&theme=github&utcOffset=2" alt="Heures de commit" height="175">
+</picture>
 
-- **E-Gab** — *Responsable FabLab.* J'accompagne les membres de l'association dans la
-  conception et la réalisation de leurs prototypes.
-  &nbsp;[`Instagram`](https://www.instagram.com/e_gab_ecm/)
+## ~/liens
 
-- **EC'lairage** — *Responsable Communication.* Je gère la communication interne et
-  externe de l'association de régie son et lumière, et je participe à la mise en place
-  technique d'événements étudiants.
-  &nbsp;[`Site`](https://eclairage.asso.centrale-med.fr/) · [`Instagram`](https://www.instagram.com/ec_lairage_ecm/)
-
----
-
-### 🛠️ Stack & outils
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
-</p>
+[gaspardm.fr](https://gaspardm.fr/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/gaspard-menou-100421331/) &nbsp;·&nbsp; [gaspard.menou@centrale-med.fr](mailto:gaspard.menou@centrale-med.fr)
 
 ---
 
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GaspardMenou&show_icons=true&count_private=true&hide_border=true&theme=github_dark&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Stats GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaspardMenou&layout=compact&hide_border=true&theme=github_dark&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Langages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaspardMenou&hide_border=true&theme=github-dark-blue&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="Streak">
-</p>
-
----
-
-<p align="center">
-  <sub>Marseille · MMXXVI · <a href="https://gaspardm.fr/">gaspardm.fr</a></sub>
-</p>
+<sub>marseille · mmxxvi</sub> <img align="right" src="https://komarev.com/ghpvc/?username=GaspardMenou&style=flat-square&color=444d56&label=vues" alt="Vues du profil">
